@@ -2151,6 +2151,7 @@ body.ie .ibg img {
 
 .accessory__menu-after-icon {
   height: 1080px;
+  height: 100% !important;
 }
 
 .accessory .slick-dots {
